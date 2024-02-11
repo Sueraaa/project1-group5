@@ -60,7 +60,7 @@ The following resources were used for data analysis:
    Following box plot describes the distribution of tobacco use for selected categories, 
 
    * E-cigarette use: The median is the lowest of the three types of tobacco, and the IQR is also the smallest. This means that e-cigarette use is less common than other types of tobacco use, and there is less variation in e-cigarette use among adults.
-   * Any tobacco use:  The median is the highest of the three types of tobacco. The IQR is also larger than e-cigarette use, but smaller than cigarette use. This indicates that any other tobacco use is more common than e-cigarette use, but less common than cigarette use and there is more variation in any tobacco use than e-cigarette use.
+   * Any tobacco use:  The median is the highest of the three types of tobacco. The IQR is also larger than e-cigarette use, but smaller than cigarette use. This indicates that any other tobacco use is more common than e-cigarette use, but less common than cigarette use and there is more variation in any tobacco use than e-cigarette usage.
     
    ![Box_Plot](Project_1/Output_Files/Distribution%20of%20Tobacco%20Use%20for%20Selected%20Types%20of%20Tobacco%20in%20US.png)
 
