@@ -40,7 +40,7 @@ The following resources were used for data analysis:
 
    Male Prevalence | Female Prevalence 
    --- | ---
-   ![Male_Prevalence_Cig](/Output_Files/Prevalence of Male Smoking.png)|![Female_Prevalence_cig](<Prevalence of Female Smoking-1.png>)
+   ![Male_Prevalence_Cig](Output_Files/Prevalence of Male Smoking.png)|![Female_Prevalence_cig](<Prevalence of Female Smoking-1.png>)
 * Country with the highest prevalence amo
 ng Male is Papua New Guinea (29.9%).
 * Country with the highest prevalence among Female is Bulgaria(36%).
