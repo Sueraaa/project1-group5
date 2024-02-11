@@ -39,13 +39,26 @@ The following resources were used for data analysis:
 
 **2. What types of tobacco do adults use in the United States and how does the distribution of e-cigarette use compare to other tobacco types?**
 
-   Add high level summary or interesting stats here...
+   National Adult Tobacco Survey (NATS) has been conducted to assess the prevalence of tobacco use, as well as the factors promoting and impeding tobacco use among adults in United States.
 
    ![Bar_Chart](Project_1/Output_Files/Adult_Tobacco%20Usage_according_to_the_typ_in_United_States.png)
 
-   ![Pie_Chart](Project_1/Output_Files/Adult%20Tobacco%20Usage%20according%20to%20the%20type%20in%20United%20States(pie-chart).png)
+   E-Cigrarette useage in US has been reported at (17.3%) which is slightly lower than the Cigarette use which has been reported at (18.3%).
+   
+   Gender distribution and age distribution has been reported at (5.6%) distributed evenly among following categories,
+   (18 to 24 Years', '25 to 44 Years', '45 to 64 Years','65 Years and Older')
 
-   ![Box_Plot](project_1/Output_Files/Distribution%20of%20Tobacco%20Use%20for%20Selected%20Types%20of%20Tobacco%20in%20US.png)
+   ![Pie_Chart](Project_1/Output_Files/Adult%20Tobacco%20Usage%20according%20to%20the%20type%20in%20United%20States(pie-chart).png)
+   
+   Key findings from National Adult Tobacco Survey ,
+
+   * E-cigarette use is becoming increasingly popular, (17.3%) of adults reported using e-cigarettes.
+   * Cigarette smoking is the most common form of tobacco use in the United States. About (18.3%) of adults reported smoking cigarettes.
+   * Other forms of tobacco use, such as cigars, pipes, and smokeless tobacco, are less common, (16.3%) of adults reported using cigars, 5.8% reported using pipes, and 16.3% reported using smokeless tobacco.
+
+   Following box plot describes the distribution of tobacco use for selected categories, 
+
+   ![Box_Plot](Project_1/Output_Files/Distribution%20of%20Tobacco%20Use%20for%20Selected%20Types%20of%20Tobacco%20in%20US.png)
 
 **3. Placeholder for Question 3**
 
