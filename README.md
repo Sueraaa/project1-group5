@@ -46,7 +46,8 @@ The following resources were used for data analysis:
 
 Male Prevalence | Female Prevalence | Overall
    --- | --- | ----  
-   ![Overall_Cig](https://github.com/Sueraaa/project1group5/blob/main/Project_1/Output_Files/Overall_Cig_Prevalence.png))|![Male_Cig](https://github.com/Sueraaa/project1-group5/blob/main/Project_1/Output_Files/Prevalence_Cig_Male.png))|![Female_Cig](https://github.com/Sueraaa/project1-group5/blob/main/Project_1/Output_Files/Prevalence_Cig_Female.png))
+   ![Overall_Cig](https://github.com/Sueraaa/project1group5/blob/main/Project_1/Output_Files/Overall_Cig_Prevalence.png))
+   |![Male_Cig](https://github.com/Sueraaa/project1-group5/blob/main/Project_1/Output_Files/Prevalence_Cig_Male.png))|![Female_Cig](https://github.com/Sueraaa/project1-group5/blob/main/Project_1/Output_Files/Prevalence_Cig_Female.png))
 
 * Europe has the highest average prevalence overall @ 14.63%.
 * Western Pacific has the highest average prevalence Male @ 16.26% 
