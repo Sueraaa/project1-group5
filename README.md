@@ -40,7 +40,7 @@ The following resources were used for data analysis:
 
    Male Prevalence | Female Prevalence 
    --- | ---
-   ![Male_Prevalence_Cig](https://github.com/Sueraaa/project1-group5/blob/main/Project_1/Output_Files/Prevalence%20of%20Male%20Smoking.png))|![Female_Prevalence_cig]([<Prevalence of Female Smoking-1.png>](https://github.com/Sueraaa/project1-group5/blob/main/Project_1/Output_Files/Prevalence%20of%20Female%20Smoking.png))
+   ![Male_Prevalence_Cig](https://github.com/Sueraaa/project1-group5/blob/main/Project_1/Output_Files/Prevalence%20of%20Male%20Smoking.png))|![Female_Prevalence_cig](https://github.com/Sueraaa/project1-group5/blob/main/Project_1/Output_Files/Prevalence%20of%20Female%20Smoking.png))
 * Country with the highest prevalence among Male is Papua New Guinea (29.9%).
 * Country with the highest prevalence among Female is Bulgaria(36%).
 
