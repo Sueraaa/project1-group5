@@ -47,8 +47,9 @@ The following resources were used for data analysis:
    
    Gender distribution and age distribution has been reported at (5.6%) distributed evenly among following categories,
    (18 to 24 Years', '25 to 44 Years', '45 to 64 Years','65 Years and Older')
+   The popularity of e-cigarettes among young adults is a public health concern, as e-cigarettes contain nicotine, which is addictive and can harm the developing brain.
 
-   ![Pie_Chart](Project_1/Output_Files/Adult%20Tobacco%20Usage%20according%20to%20the%20type%20in%20United%20States(pie-chart).png)
+   ![Pie_Chart](Project_1/Output_Files/Age%20Distribution%20in%20E-Cigarette%20Use%20in%20United%20States.png)
    
    Key findings from National Adult Tobacco Survey ,
 
@@ -58,7 +59,12 @@ The following resources were used for data analysis:
 
    Following box plot describes the distribution of tobacco use for selected categories, 
 
+   * E-cigarette use: The median is the lowest of the three types of tobacco, and the IQR is also the smallest. This means that e-cigarette use is less common than other types of tobacco use, and there is less variation in e-cigarette use among adults.
+   * Any tobacco use:  The median is the highest of the three types of tobacco. The IQR is also larger than e-cigarette use, but smaller than cigarette use. This indicates that any other tobacco use is more common than e-cigarette use, but less common than cigarette use and there is more variation in any tobacco use than e-cigarette use.
+    
    ![Box_Plot](Project_1/Output_Files/Distribution%20of%20Tobacco%20Use%20for%20Selected%20Types%20of%20Tobacco%20in%20US.png)
+
+   
 
 **3. Placeholder for Question 3**
 
