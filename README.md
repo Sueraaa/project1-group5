@@ -78,9 +78,17 @@ Gain an understanding of the use of e-cigarettes across the world, types of toba
 
     <img src="Project_1/Output_Files/Distribution%20of%20Tobacco%20Use%20for%20Selected%20Types%20of%20Tobacco%20in%20US.png" width="500" alt="Box plot tobacco type use in the U.S." />
 
-### 3. Use of e-cigarettes in the United Kingdom
+### 3. Is there a correlation between the use of cigarette and e-cigarette products? 
 
-   United Kingdom dataset visualisations ...
+   The office of National Statistics conduct a nation wide survey every 10 years to provide a comprehensive overview of the United Kingdom population. This Survey determins key characteristics that the population may have. This allows Businesses and Govenrment agencies to make educated decisions.  
+   ![Line_graph](Project_1/Output_Files/E_cig_vs_cig_users.png) 
+   * The UK dataset has shown that there is little to no corelation between e-cigarette and cigarette users among the population as a whole. 
+   * Although there has been a rapid decline in cigarette users, showing the lowest numbers of all time in the United Kingdom. E-cigarette users have not increased at the same rate of the decline as cigarette users.  
+![LIne_graph2](Project_1/Output_Files/25_34_ecig_vs_cig.png) 
+* From 2014 to 2019, the data shows that there was a correlation between the decline of cigarette smokers and increase of e-cigarette users. 
+* From 2020 onwards howvever, there is no relationship to be found. Rather the 2022 data shows that both cigarette and e-cigarette use both went down. 
+
+In conclsion, the data shows there is no direct relationship with quitting traditional smoking and e-cigarette use, rather an indirect relationship.
 
 ## References
 
