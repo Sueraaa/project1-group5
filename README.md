@@ -3,7 +3,7 @@
 E-cigarettes or vapes are a significant and emerging public health challenge. There is growing evidence that e-cigarette use can lead to nicotine addiction, with the normalisation of vaping in children and young people.
 
 ![Vaping](Project_1/Images_for_ppt/vape.jpg)
-(OY: need to add a reference to the actual link for the image, is it a stock image or a Creative Commons?)
+Ref:(https://www.wfla.com/wp-content/uploads/sites/71/2023/10/GettyImages-1396683789.jpg?w=876&h=493&crop=1))
 
 ## Purpose
 
@@ -36,6 +36,23 @@ The following resources were used for data analysis:
    Adult | Adolescent
    --- | ---
    ![adult_daily_ecig](Project_1/Output_Files/WHO_adult_curr_use.png) | ![youth_daily_ecig](Project_1/Output_Files/WHO_youth_curr_use.png)
+
+
+   Male Prevalence | Female Prevalence 
+   --- | ---
+   ![Male_Prevalence_Cig](<Prevalence of Male Smoking.png>)|![Female_Prevalence_cig](<Prevalence of Female Smoking-1.png>)
+* Country with the highest prevalence amo
+ng Male is Papua New Guinea (29.9%).
+* Country with the highest prevalence among Female is Bulgaria(36%).
+
+Male Prevalence | Female Prevalence | Overall
+   --- | --- | ----  
+   ![Overall_Cig](Overall_Cig_Prevalence.png)|![Male_Cig](Prevalence_Cig_Male.png)|![Female_Cig](Prevalence_Cig_Female.png)
+
+* Europe has the highest average prevalence overall @ 14.63%.
+* Western Pacific has the highest average prevalence Male @ 16.26% 
+* Europe has the highest average prevalence among female @ 13.84%
+
 
 **2. What types of tobacco do adults use in the United States and how does the distribution of e-cigarette use compare to other tobacco types?**
 
