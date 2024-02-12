@@ -12,7 +12,7 @@ Gain an understanding of the use of e-cigarettes across the world, types of toba
 
 * World Health Organisation</br>[https://www.who.int/data/gho/info/gho-odata-api](https://www.who.int/data/gho/info/gho-odata-api)
 * National Adult Tobacco Survey (NATS)</br>[https://catalog.data.gov/dataset/national-adult-tobacco-survey-nats](https://catalog.data.gov/dataset/national-adult-tobacco-survey-nats)
-* CDC STATE System E-Cigarette Legislation - Youth Access</br>[https://catalog.data.gov/dataset/cdc-state-system-e-cigarette-legislation-youth-access](https://catalog.data.gov/dataset/cdc-state-system-e-cigarette-legislation-youth-access)
+* Adult Smoking Habits in England</br>[https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/datasets/adultsmokinghabitsinengland](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/datasets/adultsmokinghabitsinengland)
 
 ## Research Questions
 
@@ -53,9 +53,9 @@ Gain an understanding of the use of e-cigarettes across the world, types of toba
 
    National Adult Tobacco Survey (NATS) has been conducted to assess the prevalence of tobacco use, as well as the factors promoting and impeding tobacco use among adults in United States.
 
-<img src=/Users/aryan/Documents/Group project/project1-group5/Project_1/Output_Files/Average Adult Tobacco Usage according to the type in United States.png width = 450>
+<img src= "Project_1/Output_Files/Average Adult Tobacco Usage according to the type in United States.png" width='450'>
    
-   ![Bar_Chart](Project_1/Output_Files/Adult_Tobacco%20Usage_according_to_the_typ_in_United_States.png)
+   
 
 * E-Cigrarette usage in US has been reported at (17.3%) which is slightly lower than the Cigarette use which has been reported at (18.3%).
 
@@ -64,7 +64,7 @@ Gain an understanding of the use of e-cigarettes across the world, types of toba
 
 * The popularity of e-cigarettes among young adults is a public health concern, as e-cigarettes contain nicotine, which is addictive and can harm the developing brain.
 
-   ![Pie_Chart](Project_1/Output_Files/Age%20Distribution%20in%20E-Cigarette%20Use%20in%20United%20States.png)
+   
 
    Key findings from National Adult Tobacco Survey:
 
@@ -88,8 +88,8 @@ Gain an understanding of the use of e-cigarettes across the world, types of toba
    * The UK dataset has shown that there is little to no corelation between e-cigarette and cigarette users among the population as a whole. 
    * Although there has been a rapid decline in cigarette users, showing the lowest numbers of all time in the United Kingdom. E-cigarette users have not increased at the same rate of the decline as cigarette users.  
 ![LIne_graph2](Project_1/Output_Files/25_34_ecig_vs_cig.png) 
-* From 2014 to 2019, the data shows that there was a correlation between the decline of cigarette smokers and increase of e-cigarette users. 
-* From 2020 onwards howvever, there is no relationship to be found. Rather the 2022 data shows that both cigarette and e-cigarette use both went down. 
+* From 2014 to 2019, the data shows that there was a decline of cigarette smokers and increase of e-cigarette users. 
+* From 2020 onwards however, there was a apike and a slow decline. Rather the 2022 data shows that both cigarette and e-cigarette use both went down. 
 
 In conclsion, the data shows there is no direct relationship with quitting traditional smoking and e-cigarette use, rather an indirect relationship.
 
