@@ -103,3 +103,6 @@ In conclsion, the data shows there is no direct relationship with quitting tradi
 * [Enlarge choropleth map](https://stackoverflow.com/questions/63466163/how-to-enlarge-geographic-map-in-python-plotly-choropleth-plot)
 * [Setting additional attributes for group bar charts](https://matplotlib.org/stable/gallery/lines_bars_and_markers/barchart.html)
 * [Create a grouped bar chart](https://www.geeksforgeeks.org/create-a-grouped-bar-plot-in-matplotlib/)
+
+
+[def]: Project_1/Output_Files/vape.jpg
