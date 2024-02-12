@@ -53,6 +53,8 @@ Gain an understanding of the use of e-cigarettes across the world, types of toba
 
    National Adult Tobacco Survey (NATS) has been conducted to assess the prevalence of tobacco use, as well as the factors promoting and impeding tobacco use among adults in United States.
 
+<img src=/Users/aryan/Documents/Group project/project1-group5/Project_1/Output_Files/Average Adult Tobacco Usage according to the type in United States.png width = 450>
+   
    ![Bar_Chart](Project_1/Output_Files/Adult_Tobacco%20Usage_according_to_the_typ_in_United_States.png)
 
 * E-Cigrarette usage in US has been reported at (17.3%) which is slightly lower than the Cigarette use which has been reported at (18.3%).
@@ -74,9 +76,10 @@ Gain an understanding of the use of e-cigarettes across the world, types of toba
 
 * E-cigarette use: The median is the lowest of the three types of tobacco, and the IQR is also the smallest. This means that e-cigarette use is less common than other types of tobacco use, and there is less variation in e-cigarette use among adults.
 
-* Any tobacco use:  The median is the highest of the three types of tobacco. The IQR is also larger than e-cigarette use, but smaller than cigarette use. This indicates that any other tobacco use is more common than e-cigarette use, but less common than cigarette use and there is more variation in any tobacco use than e-cigarette usage.
+* Any tobacco use:  The median is the highest of the three types of tobacco. The IQR is also larger than e-cigarette use, but smaller than cigarette use. This indicates that any other tobacco use is more common than e-cigarette use, but less common than cigarette use and there is more variation in any tobacco use than e-cigarette usage. 
 
-    <img src="Project_1/Output_Files/Distribution%20of%20Tobacco%20Use%20for%20Selected%20Types%20of%20Tobacco%20in%20US.png" width="500" alt="Box plot tobacco type use in the U.S." />
+<img src="Project_1/Output_Files/Distribution%20of%20Tobacco%20Use%20for%20Selected%20Types%20of%20Tobacco%20in%20US.png" width="500" alt="Box plot tobacco type use in the U.S." />
+
 
 ### 3. How has cigarette and e-cigarette use changed over time in the United Kingdom 
 
