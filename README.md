@@ -2,7 +2,7 @@
 
 E-cigarettes or vapes are a significant and emerging public health challenge. There is growing evidence that e-cigarette use can lead to nicotine addiction, with the normalisation of vaping in children and young people.
 
-*vaping"</br/>[https://github.com/Sueraaa/project1-group5/blob/main/Project_1/Output_Files/vape.jpg)
+![Vaping](Project_1/Output_Files/vape.jpg)|![Vaping](https://github.com/Sueraaa/project1-group5/blob/main/Project_1/Output_Files/vape.jpg)
 
 ## Purpose
 
