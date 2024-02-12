@@ -78,7 +78,7 @@ Gain an understanding of the use of e-cigarettes across the world, types of toba
 
     <img src="Project_1/Output_Files/Distribution%20of%20Tobacco%20Use%20for%20Selected%20Types%20of%20Tobacco%20in%20US.png" width="500" alt="Box plot tobacco type use in the U.S." />
 
-### 3. Is there a correlation between the use of cigarette and e-cigarette products? 
+### 3. How has cigarette and e-cigarette use changed over time in the United Kingdom 
 
    The office of National Statistics conduct a nation wide survey every 10 years to provide a comprehensive overview of the United Kingdom population. This Survey determins key characteristics that the population may have. This allows Businesses and Govenrment agencies to make educated decisions.  
    ![Line_graph](Project_1/Output_Files/E_cig_vs_cig_users.png) 
