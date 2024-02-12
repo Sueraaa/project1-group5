@@ -2,11 +2,13 @@
 
 E-cigarettes or vapes are a significant and emerging public health challenge. There is growing evidence that e-cigarette use can lead to nicotine addiction, with the normalisation of vaping in children and young people.
 
-<img src="Project_1/Images_for_ppt/vape.jpg" width="300" alt="Woman vaping" /><br/>[(Image reference link)](https://www.wfla.com/wp-content/uploads/sites/71/2023/10/GettyImages-1396683789.jpg?w=876&h=493&crop=1)
+<img src="Project_1/Resources/woman_vaping.jpg" width="300" alt="Woman vaping" /><br/>[(Image reference link)](https://www.wfla.com/wp-content/uploads/sites/71/2023/10/GettyImages-1396683789.jpg?w=876&h=493&crop=1)
 
 ## Purpose
 
-Gain an understanding of the use of e-cigarettes across the world, types of tobacco use in the United States, and e-cigarette use by age group, education status & sex.
+Gain an understanding of the use of e-cigarettes across the world, types of tobacco use in the United States, and e-cigarette use by age group, education status & sex.  
+
+For more detailed analysis, please view the presentation in `Project_1/Project1_Grp5_ecigarette.pdf` and the jupyter notebooks `Project_1/Code/National_Adult_Tobacco_Survey US & GB statistics.ipynb` and `Project_1/Code/WHO_analysis.ipynb`
 
 ## Data sources
 
